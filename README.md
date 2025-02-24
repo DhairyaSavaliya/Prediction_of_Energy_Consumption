@@ -1,6 +1,4 @@
-Sure! Here’s the updated **README** file with the dataset link included:  
 
----
 
 ## **Prediction of Energy Consumption** ⚡📊  
 
